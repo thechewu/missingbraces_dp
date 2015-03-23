@@ -1,0 +1,6 @@
+c:\users\medic\documents\BracesProblem\BracesProblem\bin\Debug\BracesProblem.exe.config
+c:\users\medic\documents\BracesProblem\BracesProblem\bin\Debug\BracesProblem.exe
+c:\users\medic\documents\BracesProblem\BracesProblem\bin\Debug\BracesProblem.pdb
+c:\users\medic\documents\BracesProblem\BracesProblem\obj\Debug\BracesProblem.csprojResolveAssemblyReference.cache
+c:\users\medic\documents\BracesProblem\BracesProblem\obj\Debug\BracesProblem.exe
+c:\users\medic\documents\BracesProblem\BracesProblem\obj\Debug\BracesProblem.pdb
